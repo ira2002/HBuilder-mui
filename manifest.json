@@ -270,7 +270,8 @@
 			"home.html": {
 				"resources": [],
 				"refer": [
-					"setting.html"
+					"setting.html",
+					"task/task.html"
 				],
 				"priority": 0
 			}
